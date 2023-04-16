@@ -1,5 +1,5 @@
-# Study_Golang_Lambda
-勉強用　lambdaへGo言語使って関数を記載する
+# FoodApp_Golang_LINEBOT_Lambda_RDS
+LINEトークにて入力した単語を基に1食分のカロリーを返答するアプリ
 
 
 
