@@ -1,6 +1,8 @@
 # FoodApp_Golang_LINEBOT_Lambda_RDS
-LINEトークにて入力した単語を基に1食分のカロリーを返答するアプリ
+1食分のカロリーを返答するLINEBot
 
+# イメージ
+ <img width="220" alt="image" src="https://github.com/Yuta-Haruna/FoodApp_Golang_LINEBOT_Lambda_RDS/assets/50592688/f06331cb-a14b-4b8f-80cf-ef80b1de85d9">
 
 
 ▽▽リンクアクセスには、許可を得てください。▽▽
