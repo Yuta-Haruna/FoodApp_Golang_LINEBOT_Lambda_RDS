@@ -5,16 +5,17 @@
 ## 目次
 
 - [イメージ](#イメージ)
-- バックグラウンド(開発背景)
-- サービス概要(使用法)
-- 使用技術
+- [バックグラウンド(開発背景)](#バックグラウンド(開発背景))
+- [サービス概要(使用法)](#サービス概要(使用法))
+- [使用技術](#使用技術)
 
 
 ▽▽リンクアクセスには、許可を得てください。▽▽
 - [システム構成図](#システム構成図)
 - [データベース構成](#データベース構成)
 - [LINE_Bot](#LINE_Bot)
-- 
+
+△△リンクアクセスには、許可を得てください。△△
 
 ## イメージ
  <img width="220" alt="image" src="https://github.com/Yuta-Haruna/FoodApp_Golang_LINEBOT_Lambda_RDS/assets/50592688/f06331cb-a14b-4b8f-80cf-ef80b1de85d9">
@@ -52,9 +53,6 @@
 - diagrams.net (設計用)
 - Googleスプレッドシート
 
-
-▽▽リンクアクセスには、許可を得てください。▽▽
-
 ## システム構成図
 https://app.diagrams.net/#G1gEIdjbOthDrG6d6J4AZlAKsZMo79B32u
 
@@ -64,13 +62,10 @@ https://app.diagrams.net/#G1gEIdjbOthDrG6d6J4AZlAKsZMo79B32u
 ## データベース構成
 https://app.diagrams.net/#G1UuAvHwzMAnGrqwA0_Rl3_dnjPJuxgWML
 
-
 ・DB
-
 ![image](https://user-images.githubusercontent.com/50592688/232228472-bbe5ebc9-0470-4a3c-9364-b03066f33189.png)
 
 ・テーブル詳細
-
 ![image](https://user-images.githubusercontent.com/50592688/232228498-e328f25f-38d0-4f47-8725-d040725d126f.png)
 
 ## LINE_Bot
