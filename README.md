@@ -69,7 +69,7 @@ https://app.diagrams.net/#G1UuAvHwzMAnGrqwA0_Rl3_dnjPJuxgWML
 ![image](https://user-images.githubusercontent.com/50592688/232228498-e328f25f-38d0-4f47-8725-d040725d126f.png)
 
 ## LINE_Bot
-※必ず開発者へ連絡してください。
+※利用前に必ず開発者へ連絡してください。
 　(連絡ない場合は、機能を停止しています。)
  
 ・QRコード
